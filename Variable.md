@@ -21,3 +21,12 @@
    - 명시적으로 타입을 알수 있는 경우 모든 타입의 Method 사용가능
          - String으로 명시된 경우
          ![image](https://github.com/ygyun3937/Dart/assets/74608323/591a0596-4e46-47c7-bf72-78e3ac05ffc8)
+
+
+#3. Null Variables
+ 1) Null Safety
+  - dart에서는 기본적으로 변수에 초기화 값을 null을 허용하지 않음(컴파일러 에러 처리)
+  - null 값을 사용하고 싶은 경우 활성화 시켜줘야됨
+    -> 키워드 "?"
+    ![image](https://github.com/ygyun3937/Dart/assets/74608323/bef39d2b-86bd-4a94-9fa1-c8589a072d33)
+
