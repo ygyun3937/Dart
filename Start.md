@@ -7,3 +7,4 @@
 
 #3. 설치방법
  - https://flutter-ko.dev/get-started/install
+ - https://spaceofna.com/vscode%EB%A1%9C-dart-project-%EB%A7%8C%EB%93%A4%EA%B8%B0/
