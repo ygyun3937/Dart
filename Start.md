@@ -4,3 +4,6 @@
   
 #2. tool 
  - vs code
+
+#3. 설치방법
+ - https://flutter-ko.dev/get-started/install
