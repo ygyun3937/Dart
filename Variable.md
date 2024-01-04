@@ -36,3 +36,18 @@
     - final 변수명 or final 변수타입 변수명
  - ![image](https://github.com/ygyun3937/Dart/assets/74608323/6eac34ae-da2f-44f3-b8e3-fddedaeb7e3a)
 
+#5. Late Variables
+ - 초기 데이터 없이 변수를 선언 할 수 있게 해줌
+ - API에서 해당 변수의 값을 받아야 하는 경우 자주 사용
+ - 변수를 사용하기 위해서는 반드시 값이 정의된 이후에 사용 가능
+ - 사용법
+   - late 변수타입 변수명
+ - ![image](https://github.com/ygyun3937/Dart/assets/74608323/3cee2f21-2094-4d0f-adce-088768a993fa)
+
+#6. Constant Variables
+ - complie-time constant 선언 해줌
+   - 컴파일 이전에 컴파일러에서 값을 알고 있는 값 (쉽게 말해 하드코딩 값)
+    <-> var or final : 다른 개념으로는 사용자가 입력해야하거나 API로부턴 받는 값의 경우 해당 변수 사용
+ - ![image](https://github.com/ygyun3937/Dart/assets/74608323/d38057fe-9c7c-4f91-ba0b-ec18d9c4736f)
+ - 상수에 해당하는 값 사용 시 자주 사용하는 키워드
+   
