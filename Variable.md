@@ -30,3 +30,9 @@
     -> 키워드 "?"
     ![image](https://github.com/ygyun3937/Dart/assets/74608323/bef39d2b-86bd-4a94-9fa1-c8589a072d33)
 
+#4.Final Variables
+ - 한번 final 변수로 정의된 변수는 값을 수정할 수 없음
+ - 사용법
+    - final 변수명 or final 변수타입 변수명
+ - ![image](https://github.com/ygyun3937/Dart/assets/74608323/6eac34ae-da2f-44f3-b8e3-fddedaeb7e3a)
+
